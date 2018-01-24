@@ -1,5 +1,6 @@
 # GameIdeas
 A place where you can put your ideas for games
+
 ---Flippin' Fun Video Games---
 
 Welcome to this repository! Feel free to put any and 
